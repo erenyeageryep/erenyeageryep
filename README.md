@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/download.gif" height="50%" width="100%" alt="GitHub Profile Picture">
+  <img src="image/download.gif" height="40%" width="100%" alt="GitHub Profile Picture">
 </p>
 
 ```zsh
@@ -16,5 +16,5 @@ Age: 16
 Location: India
 Learning: JavaScript, TypeScript, Python, etc.
 Interest: Systems, Backend, Low-level stuff
-Discord: 
+Discord: wbu_aman_023
 ```
