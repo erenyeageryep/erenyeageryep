@@ -10,7 +10,7 @@
 erenyeageryep@github
 -------------------------
 Terminal: Hyper
-IDE: Vs Code
+IDE: VS Code
 Used OS: Windows 
 Age: 16
 Location: India
