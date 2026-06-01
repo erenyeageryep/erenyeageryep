@@ -7,7 +7,7 @@
 ```
 ```csharp
 
-erenyeager@github
+erenyeageryep@github
 -------------------------
 Terminal: Hyper
 IDE: Vs Code
