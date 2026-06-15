@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/download1.gif" height="40%" width="100%" alt="GitHub Profile Picture">
+  <img src="image/download1.gif" height="20%" width="100%" alt="GitHub Profile Picture">
 </p>
 
 ```zsh
